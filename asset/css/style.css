@@ -1,0 +1,51 @@
+body{
+	background-image:url("../images/img1.jpg");
+	text-align: center;
+	font-size:30px;
+	
+}
+
+
+#header{
+	margin-right: 400px;
+	margin-left: 400px;
+	background-color: white;
+	 border: 5px solid yellow;
+	margin-top: 100px;
+	text-align: center;
+	font-size:40px;
+	color:red;
+
+
+}
+#start{
+	border: 5px solid white;
+	font-size: 25px;
+	background-color: yellow;
+	color:blue;                                      
+	margin-top: 200px;
+
+}
+#submit{
+	
+	font-size: 25px;
+	background-color: yellow;
+	color:blue;
+
+}
+#play-again{
+	
+	font-size: 25px;
+	background-color: yellow;
+	color:blue;
+
+
+}
+#form{
+
+	margin-left:250px;
+	margin-right:250px;
+	color:green;
+	 border: 5px solid red;
+	background-color: lightyellow;
+}
